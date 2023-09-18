@@ -2,7 +2,7 @@
 A full stack food application where you can find recipe of different dishes.
 
 
-![Project Logo](https://drive.google.com/file/d/1FACVw_TN0H98Z4UyXtOwD5jUIyK7lSUV/view?usp=sharing) 
+![Project Logo](./main.jpg) 
 
 # Start-backend (running is mandatory as its not deployed)
     nodemon index.js
