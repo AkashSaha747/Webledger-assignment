@@ -10,4 +10,7 @@ A full stack food application where you can find recipe of different dishes.
 # Start-Frontend(can use deloyed link or the live server)
     npm start
 
+# deployed link
+     https://myapp-rj53fupzt-akashsaha747.vercel.app
+
 
